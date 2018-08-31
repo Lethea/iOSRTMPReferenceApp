@@ -1,4 +1,4 @@
-# iOSRTMPReferenceApp
+# iOS RTMP Reference Application
 
 We are happy to announce that AntMedia RTMP iOS SDK is ready for developers and end-user applications.
 
