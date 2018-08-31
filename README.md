@@ -10,8 +10,10 @@ In order to use RTMP iOS SDK, you need LFLiveKit framework build, and some other
 
 Extract the Media Server Enterprise Edition and start the server with start.sh command in the terminal:
 
+```
 cd /path/to/ant-media-server
 ./start.sh
+```
 
 ### Project 
 
